@@ -39,4 +39,4 @@ I'm from Barcelona, and I'm passionate about both technology and music. I play t
   </a> 
 </p>
 
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=footer&fontSize=90)
