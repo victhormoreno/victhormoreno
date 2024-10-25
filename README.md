@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
+
 # 👋 Hi, I'm Víctor Moreno
 
 I'm from Barcelona, and I'm passionate about both technology and music. I play the flute and trumpet  🎶. I’ve taught flute and music theory to primary school students for four years. At the same time, I balanced my engineering studies with my passion for programming and applied mathematics, focusing especially on computer vision for autonomous driving  🚙.
@@ -39,5 +41,4 @@ I'm from Barcelona, and I'm passionate about both technology and music. I play t
   </a> 
 </p>
 
-
----
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=80&section=header&fontSize=90)  
