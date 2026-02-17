@@ -15,6 +15,7 @@ I'm from Barcelona, and I'm passionate about both technology and music. I play t
 ## Education 🎓
 
 - **Bachelor's in Telecommunications Technologies and Services Engineering** at the **Escola Tècnica Superior d'Enginyeria de Telecomunicació de Barcelona (ETSETB)**, UPC (2020 - 2024), specializing in audiovisual systems. 
+- **MSc in Advanced Telecommunication Technologies – Deep Learning Track** at the **Escola Tècnica Superior d'Enginyeria de Telecomunicació de Barcelona (ETSETB)**, UPC (2025-2027).
 
 
 ## Languages and Tools:
